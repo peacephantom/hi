@@ -1,0 +1,306 @@
+{
+  "100":{
+    "internal":"16",
+    "isGame":"false",
+    "name":"town",
+    "users":[
+
+    ]
+  },
+  "110":{
+    "internal":"6",
+    "isGame":"false",
+    "name":"coffee",
+    "users":[
+
+    ]
+  },
+  "111":{
+    "internal":"5",
+    "isGame":"false",
+    "name":"book",
+    "users":[
+
+    ]
+  },
+  "120":{
+    "internal":"14",
+    "isGame":"false",
+    "name":"dance",
+    "users":[
+
+    ]
+  },
+  "121":{
+    "internal":"15",
+    "isGame":"false",
+    "name":"lounge",
+    "users":[
+
+    ]
+  },
+  "130":{
+    "internal":"4",
+    "isGame":"false",
+    "name":"shop",
+    "users":[
+
+    ]
+  },
+  "200":{
+    "internal":"11",
+    "isGame":"false",
+    "name":"village",
+    "users":[
+
+    ]
+  },
+  "210":{
+    "internal":"1",
+    "isGame":"false",
+    "name":"sport",
+    "users":[
+
+    ]
+  },
+  "220":{
+    "internal":"17",
+    "isGame":"false",
+    "name":"lodge",
+    "users":[
+
+    ]
+  },
+  "230":{
+    "internal":"7",
+    "isGame":"false",
+    "name":"mtn",
+    "users":[
+
+    ]
+  },
+  "300":{
+    "internal":"12",
+    "isGame":"false",
+    "name":"plaza",
+    "users":[
+
+    ]
+  },
+  "310":{
+    "internal":"2",
+    "isGame":"false",
+    "name":"pet",
+    "users":[
+
+    ]
+  },
+  "320":{
+    "internal":"8",
+    "isGame":"false",
+    "name":"dojo",
+    "users":[
+
+    ]
+  },
+  "330":{
+    "internal":"3",
+    "isGame":"false",
+    "name":"pizza",
+    "users":[
+
+    ]
+  },
+  "400":{
+    "internal":"9",
+    "isGame":"false",
+    "name":"beach",
+    "users":[
+
+    ]
+  },
+  "410":{
+    "internal":"25",
+    "isGame":"false",
+    "name":"lighthouse",
+    "users":[
+
+    ]
+  },
+  "411":{
+    "internal":"26",
+    "isGame":"false",
+    "name":"beacon",
+    "users":[
+
+    ]
+  },
+  "800":{
+    "internal":"30",
+    "isGame":"false",
+    "name":"dock",
+    "users":[
+
+    ]
+  },
+  "801":{
+    "internal":"29",
+    "isGame":"false",
+    "name":"forts",
+    "users":[
+
+    ]
+  },
+  "802":{
+    "internal":"28",
+    "isGame":"false",
+    "name":"rink",
+    "users":[
+
+    ]
+  },
+  "803":{
+    "internal":"27",
+    "isGame":"false",
+    "name":"agent",
+    "users":[
+
+    ]
+  },
+  "804":{
+    "internal":"34",
+    "isGame":"false",
+    "name":"boiler",
+    "users":[
+
+    ]
+  },
+  "805":{
+    "internal":"33",
+    "isGame":"false",
+    "name":"berg",
+    "users":[
+
+    ]
+  },
+  "806":{
+    "internal":"32",
+    "isGame":"false",
+    "name":"cave",
+    "users":[
+
+    ]
+  },
+  "807":{
+    "internal":"31",
+    "isGame":"false",
+    "name":"shack",
+    "users":[
+
+    ]
+  },
+  "808":{
+    "internal":"24",
+    "isGame":"false",
+    "name":"mine",
+    "users":[
+
+    ]
+  },
+  "809":{
+    "internal":"23",
+    "isGame":"false",
+    "name":"forest",
+    "users":[
+
+    ]
+  },
+  "810":{
+    "internal":"10",
+    "isGame":"false",
+    "name":"cove",
+    "users":[
+
+    ]
+  },
+  "900":{
+    "internal":"20",
+    "isGame":"true",
+    "name":"astro",
+    "users":[
+
+    ]
+  },
+  "901":{
+    "internal":"21",
+    "isGame":"true",
+    "name":"beans",
+    "users":[
+
+    ]
+  },
+  "902":{
+    "internal":"18",
+    "isGame":"true",
+    "name":"puffle",
+    "users":[
+
+    ]
+  },
+  "903":{
+    "internal":"19",
+    "isGame":"true",
+    "name":"biscuit",
+    "users":[
+
+    ]
+  },
+  "904":{
+    "internal":"22",
+    "isGame":"true",
+    "name":"fish",
+    "users":[
+
+    ]
+  },
+  "999":{
+    "internal":"13",
+    "isGame":"true",
+    "name":"sled",
+    "users":[
+
+    ]
+  },
+  "907":{
+    "internal":"14",
+    "isGame":"true",
+    "name":"q1",
+    "users":[
+
+    ]
+  },
+  "908":{
+    "internal":"15",
+    "isGame":"true",
+    "name":"q2",
+    "users":[
+
+    ]
+  },
+  "911":{
+    "internal":"16",
+    "isGame":"true",
+    "name":"q3",
+    "users":[
+
+    ]
+  },
+  "913":{
+    "internal":"17",
+    "isGame":"true",
+    "name":"q4",
+    "users":[
+
+    ]
+  }
+}
